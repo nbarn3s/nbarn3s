@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nbarn3s
 - 👀 I’m interested in OSINT
-- 🌱 I’m currently looking at Twint's PR and issue backlog
+- 🌱 I’m currently looking at and developing tools to scrape and process web-based data
 - 💞️ I’m looking to collaborate on any ethical OSINT project
 - 📫 How to reach me nbarn3s@proton.me
 
